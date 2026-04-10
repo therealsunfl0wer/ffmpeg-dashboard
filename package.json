@@ -1,0 +1,44 @@
+{
+  "name": "ffmpeg-dashboard",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server",
+    "core"
+  ],
+  "version": "0.0.0",
+  "description": "A web dashboard for local instance of ffmpeg using Node, Fastify and React/Vite",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealsunfl0wer/ffmpeg-dashboard.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "node",
+    "nodejs",
+    "js",
+    "javascript",
+    "fastify",
+    "websocket",
+    "react",
+    "vite",
+    "coursework"
+  ],
+  "author": "sunfl0wer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealsunfl0wer/ffmpeg-dashboard/issues"
+  },
+  "homepage": "https://github.com/therealsunfl0wer/ffmpeg-dashboard#readme",
+  "devDependencies": {
+    "@eslint/js": "^9.39.4",
+    "eslint": "^9.39.4",
+    "eslint-plugin-react-hooks": "^7.0.1",
+    "eslint-plugin-react-refresh": "^0.5.2",
+    "eslint-config-prettier": "^10.1.8",
+    "prettier": "^3.8.2"
+  }
+}

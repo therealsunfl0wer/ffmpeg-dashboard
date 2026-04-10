@@ -1,0 +1,22 @@
+{
+  "name": "@ffmpeg-dashboard/server",
+  "version": "0.0.0",
+  "description": "server running Node and Fastify",
+  "main": "src/index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@ffmpeg-dashboard/core": "*",
+    "fastify": "^5.8.4"
+  },
+  "keywords": [
+    "node",
+    "fastify",
+    "coursework",
+    "server"
+  ],
+  "author": "sunfl0wer",
+  "license": "MIT"
+}
